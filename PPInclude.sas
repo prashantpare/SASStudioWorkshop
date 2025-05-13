@@ -1,0 +1,3 @@
+PROC SETINIT;
+
+RUN ;
