@@ -1,4 +1,4 @@
-/*Prashtn test*/
+/*Prashant INCLUDE test*/
 PROC SETINIT;
-%put Prashant UPDATED test;
+%put Prashant INCLUDE test;
 RUN ;
