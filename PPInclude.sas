@@ -1,4 +1,4 @@
 /*Prashtn test*/
 PROC SETINIT;
-put "Prashant test";
+%put Prashant test;
 RUN ;
