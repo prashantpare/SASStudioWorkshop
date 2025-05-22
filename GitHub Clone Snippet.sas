@@ -1,6 +1,6 @@
 %include '/mymount/PPServerFolder/PullFromGitHub.sas';
 %include '/mymount/PPServerFolder/PPInclude.sas';
-
+%include '/mymount/PPServerFolder/PPInclude.sas';
 /*Prashant - testing Pull*/
 /*  rc = git_pull("/path/to/my/repo", "HTTPS", "myusername", "mypassword");*/
 /*data _null_;*/
