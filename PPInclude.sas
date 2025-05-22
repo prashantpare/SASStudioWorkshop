@@ -1,4 +1,4 @@
 /*Prashant INCLUDE test*/
 PROC SETINIT;
-%put Prashant NEW INCLUDE test;
+%put Testing with Nick - Prashant NEW INCLUDE test;
 RUN ;

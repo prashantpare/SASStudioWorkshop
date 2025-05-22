@@ -11,7 +11,7 @@
 /*   put rc=;*/
 /*run;*/
 
-%include '/mymount/PPServerFolder/PullFromGithub.sas';
+%include '/mymount/PPServerFolder/PullFromGitHub.sas';
 %include '/mymount/PPServerFolder/PPInclude.sas';
 
 /*data _null_;*/
